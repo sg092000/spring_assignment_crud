@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+    display : block;
+}
+
+h1{
+    color: rgba(173, 107, 22, 0.911);
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    background-color: rgb(226, 225, 214);
+    display : block;
+    align-items: center;
+    justify-content: center;
+    padding : 5px;
+
+}
